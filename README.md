@@ -23,6 +23,8 @@ WriteOS wires these systems together through a six-layer pipeline. Each layer do
 ---
 
 ## The six-layer pipeline
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/6346b52a-a282-4e32-b792-c6f6a35241f7" />
+
 
 ### Layer 1: Connectors (live, MVP)
 
